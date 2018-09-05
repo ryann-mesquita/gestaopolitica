@@ -1,0 +1,58 @@
+
+	.title-pg {
+ font-size: 2em;
+ font-weight: 900;
+ 
+}
+.edit{
+
+	background: rgba(88,168,133,.2);
+	border: 1px solid #e3e3e3;
+}
+
+.delete{
+
+	background: #fe2020;
+}
+
+.actions{
+	
+	padding: 4px;
+	color: #FFF;
+	text-decoration: none;
+	font-size: 1em;
+	margin: 0px 2px;
+}
+.actions:hover{
+   text-decoration: none;
+   color:#0074E8;
+}
+.btn-add{
+	margin-bottom: 10px; 
+}
+#fabrica{
+	color: #337ab7;
+}
+.label-black{
+	display: inline;
+	padding: .2em .6em .3em;
+	font-size: 75%;
+	font-weight: 700;
+	line-height: 1;
+	color: white;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: .25em;
+	background-color: rgba(7, 153, 185);
+}
+.box-info{
+	border-radius: 5px;
+	position: relative;
+	display: block;
+	margin-bottom: 20px;
+	box-shadow: 5px 5px rgba(255, 255, 255, 0.1);
+	border: px;
+	border: 1px solid rgba(255, 255, 255, 0.2);
+
+}

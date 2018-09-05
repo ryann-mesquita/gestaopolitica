@@ -1,0 +1,200 @@
+ /* Container holding the image and the text */
+.container {
+    position: relative;
+}
+
+#mapa{
+margin-left: auto;
+margin-right: auto;
+width: 1080px;
+height: 1000px;
+
+}
+.center {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    transform: translate(-50%, -50%);
+    font-size: 18px;
+}
+
+img { 
+    width: 100%;
+    height: auto;
+    
+}
+
+#guajara
+{
+	left: 570px;
+    top: 480px;
+    
+}
+#cidade_nova
+{
+	left: 430px;
+    top: 530px;
+}
+#paar
+{
+	left: 570px;
+    top: 400px;
+}
+
+
+#maguari
+{
+left: 660px;
+top: 455px
+
+}
+#heliolandia
+{
+	left: 820px;
+    top: 420px;
+}
+#distrito
+{
+	left: 980px;
+    top: 370px
+}
+#geraldo_palmeira
+{
+	left: 940px;
+    top: 495px;
+}
+
+#centro
+{
+	left: 700px;
+    top: 565px;
+}
+
+#levilandia
+{
+	left: 490px;
+    top: 635px;
+}
+
+#aguas_lindas
+{
+	left: 460px;
+    top: 745px;
+}
+#guanabara
+{
+	left: 380px;
+    top: 750px;
+}
+
+#jaderlandia
+{
+	top: 690px;
+    left: 220px;
+}
+#atalaia
+{
+	left: 175px;
+    top: 780px;
+}
+
+#coqueiro
+{
+	left: 280px;
+    top: 570px;
+}
+#jiboia_branca
+{
+	left: 180px;
+    top: 455px;
+}
+
+#horas{
+	left: 280px;
+    top: 410px;
+}
+
+#icui{
+	left: 350px;
+    top: 320px;
+}
+#curucamba{
+    
+	left: 660px;
+    top: 300px;
+}
+#julia_seffer
+{
+	left: 625px;
+    top: 755px;
+}
+#aguas_brancas
+{
+	left: 720px;
+    top: 700px;
+}
+#aura
+{
+	left: 810px;
+    top: 730px;
+}
+
+/*css icone cadeado*/
+
+.cadeado-color{
+    color: #fff;
+}
+
+/****************************CSS Cards**********************
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 100%;
+    margin: auto;
+    /*text-align: center;
+}
+
+.title_card {
+    color: grey;
+    font-size: 18px;
+}
+
+.button_card {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+}
+
+
+.button_card:hover, a:hover {
+    opacity: 0.7;
+}
+*/
+#content{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-width: 1px;
+    border-style: solid;
+
+}
+
+.nome-h1{
+text-align: center;
+}
+
+.botao{
+color: #fff;
+border-color: #ddd;
+background-color: rgba(88,168,133,.2);   
+}
+
+.botao:hover{
+    background-color: #fff;  
+    color: rgba(88,168,133,.9);   
+    
+}
