@@ -37,7 +37,7 @@
 
 <table class="table table-striped">
 <tr>
-  <th>Nome</th>
+  <th>Nomeeee</th>
   <th>Telefone</th>
   <th>Descrição</th>
   @can('edit_post')
